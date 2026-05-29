@@ -1,6 +1,6 @@
-# KothaKhata (కొత్త ఖాతా)
+# Grainly
 
-KothaKhata is a native offline-first Android application designed specifically for harvesting machine owners in rural India. It serves as a digital replacement for their physical notebooks, making it incredibly simple to record daily work, calculate complex billing variations based on runtime and breaks, and accurately track pending payments.
+Grainly is a native offline-first Android application designed specifically for harvesting machine owners in rural India. It serves as a digital replacement for their physical notebooks, making it incredibly simple to record daily work, calculate complex billing variations based on runtime and breaks, and accurately track pending payments.
 
 ## 🎯 Core Philosophy
 The app is built with a "dead simple" user experience in mind, catering to users with basic digital skills. It prioritizes fast data entry, offline reliability, and clear financial summaries without overwhelming the user with complex analytics or dashboards. 
@@ -54,4 +54,4 @@ The app is built with a "dead simple" user experience in mind, catering to users
 * **Theme & Colors:** Custom deep dark-mode aesthetic with Saffron (`#F5A800`), Deep Violet (`#2C1A4D`), and vibrant state colors (Success Green, Danger Red, Warning Amber).
 
 ## 📱 Offline-First Architecture
-KothaKhata operates with Room Database as its single source of truth. Users are never blocked by poor network connectivity.
+Grainly operates with Room Database as its single source of truth. Users are never blocked by poor network connectivity.
