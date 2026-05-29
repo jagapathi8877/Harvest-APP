@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">కొత్త ఖాతా</string>
+    <string name="home_todays_earnings">ఈరోజు సంపాదన</string>
+    <string name="home_total_pending">పెండింగ్ మొత్తం</string>
+    <string name="home_new_record">కొత్త రికార్డ్</string>
+    
+    <string name="nav_home">హోమ్</string>
+    <string name="nav_records">రికార్డులు</string>
+    <string name="nav_pending">పెండింగ్</string>
+    <string name="nav_calculator">క్యాల్క్యులేటర్</string>
+    <string name="nav_settings">సెట్టింగ్స్</string>
+
+    <string name="record_customer">కస్టమర్ పేరు</string>
+    <string name="record_phone">ఫోన్ నంబర్</string>
+    <string name="record_village">ఊరు (ఐచ్ఛికం)</string>
+    <string name="record_date">తేదీ</string>
+    <string name="record_machine">మెషిన్</string>
+    <string name="record_start_time">మొదలు సమయం</string>
+    <string name="record_end_time">ముగింపు సమయం</string>
+    <string name="record_break">విరామం</string>
+    <string name="record_notes">నోట్స్ (ఆప్షనల్)</string>
+    <string name="record_payment_status">చెల్లింపు స్థితి</string>
+    <string name="record_save">సేవ్ చేయి</string>
+    <string name="record_paid_amount">తీసుకున్న మొత్తం</string>
+
+    <string name="status_paid">చెల్లించారు</string>
+    <string name="status_partial">కొంచెం చెల్లించారు</string>
+    <string name="status_unpaid">చెల్లించలేదు</string>
+
+    <string name="calc_runtime">పని సమయం</string>
+    <string name="calc_amount">మొత్తం</string>
+    <string name="calc_rate">రేటు</string>
+    <string name="calc_reset">రీసెట్</string>
+    <string name="calc_change_rate">రేటు మార్చు</string>
+
+    <string name="settings_add_machine">మెషీన్ జోడించు</string>
+    <string name="settings_language">భాష</string>
+    <string name="settings_edit">మార్చు</string>
+    <string name="settings_delete">తొలగించు</string>
+    
+    <string name="export_pdf">PDF ఎగుమతి</string>
+    <string name="filter_all">అన్ని</string>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">KothaKhata</string>
+    <string name="home_todays_earnings">Today\'s Earnings</string>
+    <string name="home_total_pending">Pending Amount</string>
+    <string name="home_new_record">New Record</string>
+    
+    <string name="nav_home">Home</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_pending">Pending</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="record_customer">Customer Name</string>
+    <string name="record_phone">Phone Number</string>
+    <string name="record_village">Village (Optional)</string>
+    <string name="record_date">Date</string>
+    <string name="record_machine">Machine</string>
+    <string name="record_start_time">Start Time</string>
+    <string name="record_end_time">End Time</string>
+    <string name="record_break">Break Time</string>
+    <string name="record_notes">Notes (Optional)</string>
+    <string name="record_payment_status">Payment Status</string>
+    <string name="record_save">Save Record</string>
+    <string name="record_paid_amount">Amount Collected</string>
+
+    <string name="status_paid">Paid</string>
+    <string name="status_partial">Partial</string>
+    <string name="status_unpaid">Unpaid</string>
+
+    <string name="calc_runtime">Run Time</string>
+    <string name="calc_amount">Final Amount</string>
+    <string name="calc_rate">Rate</string>
+    <string name="calc_reset">Reset</string>
+    <string name="calc_change_rate">Change Rate</string>
+
+    <string name="settings_add_machine">Add Machine</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_edit">Edit</string>
+    <string name="settings_delete">Delete</string>
+    
+    <string name="export_pdf">Export PDF</string>
+    <string name="filter_all">All</string>
+</resources>

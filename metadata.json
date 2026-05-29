@@ -1,0 +1,6 @@
+{
+  "name": "KothaKhata",
+  "description": "Billing machine app for harvesting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
